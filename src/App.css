@@ -1,0 +1,28 @@
+
+table{
+  border: 1px solid black;
+  width: 100%;
+}
+th, tr, td {
+  border:  1px solid black !important;
+  padding: 10px ;
+}
+td > a{
+  margin: 5px;
+}
+.text-align{
+  text-align: end;
+  margin: 10px;
+}
+h1{
+  text-align: center;
+}
+
+#btn-flex {
+  display: flex !important;
+  text-align: start;
+  justify-content: start;
+}
+.text{
+  margin-top: 5%;
+}
